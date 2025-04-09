@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Paulo Henrique Ribeiro Chaves </h1>
+<h1 style="text-align: center;"> Paulo Henrique R. Chaves </h1>
 <h1> </h1>
 
 
@@ -8,11 +8,11 @@
 
 
 <div>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZTX7&show_icons=true&theme=nord" alt="Status de Sinézio Junior"/>
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTX7&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XDChaves&show_icons=true&theme=nord" alt="Status"/>
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas"/>
 </div><br/> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZTX7&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XDChaves&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ♦ Stacks
 
