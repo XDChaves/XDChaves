@@ -1,8 +1,8 @@
 <h1 style="text-align: center;"> Paulo Henrique R. Chaves </h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 <div style="display: inline_block">
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=XDChaves&show_icons=true&theme=nord" alt="Status"/>
@@ -10,8 +10,6 @@
 </div><br/> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XDChaves&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## ♦ Stacks
 
 <div style="display: inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0a516d?style=for-the-badge&logo=python&logoColor=white">
