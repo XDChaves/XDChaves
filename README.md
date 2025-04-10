@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phr_chaves/)
 
-<div style="display: inline_block">
+<div>
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=XDChaves&show_icons=true&theme=nord" alt="Status"/>
     <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=B0C4DE&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas"/>
 </div><br/> 
