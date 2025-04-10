@@ -2,7 +2,6 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phr_chaves/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 <div style="display: inline_block">
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=XDChaves&show_icons=true&theme=nord" alt="Status"/>
