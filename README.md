@@ -4,7 +4,7 @@
 
 <div style="display: inline_block">
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=XDChaves&show_icons=true&theme=nord" alt="Status"/>
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=FF0000&text_color=B0C4DE&bg_color=0d1117" alt="Linguagens mais usadas"/>
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=FF0000&text_color=B0C4DE&bg_color=000000" alt="Linguagens mais usadas"/>
 </div><br/> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XDChaves&bg_color=0d1117&color=B0C4DE&line=7FFF00&point=B0C4DE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
