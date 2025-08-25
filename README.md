@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá;Bem-vindo+ao+meu+perfil!;XD+Chaves!&font=Fira%20Code&color=%ffffff&center=true&width=300&height=70">
 </p>
 <br>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-0a516d?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
