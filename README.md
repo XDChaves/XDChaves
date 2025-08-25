@@ -11,7 +11,7 @@ Curtiu né ?!
 </p>
 <br>
 <div style="display: inline_block">
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=FFFFFF&text_color=B0C4DE&bg_color=000000" alt="Linguagens mais usadas"/>
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=FFFFFF&text_color=B0C4DE&bg_color=000000&hide=jupyter%20notebook" alt="Linguagens mais usadas"/>
 </div>
 <br>
 <h1></h1>
