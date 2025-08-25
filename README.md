@@ -5,6 +5,6 @@
 </p>
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá;Bem-vindo+ao+meu+perfil!;XDChaves!&font=Fira%20Code&color=%ffffff&center=true&width=300&height=70">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá;Bem-vindo+ao+meu+perfil!;XD+Chaves!&font=Fira%20Code&color=%ffffff&center=true&width=300&height=70">
 </p>
 <br>
