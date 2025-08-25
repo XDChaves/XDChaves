@@ -7,6 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá;Bem-vindo+ao+meu+perfil!;XD+Chaves!&font=Fira%20Code&color=%ffffff&center=true&width=300&height=70">
 </p>
 <br>
+<div style="display: inline_block">
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDChaves&layout=compact&hide_border=true&title_color=FFFFFF&text_color=B0C4DE&bg_color=000000" alt="Linguagens mais usadas"/>
+</div>
+<br> 
 <h1></h1>
 <div style="display: inline_block" align="center">
     <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
