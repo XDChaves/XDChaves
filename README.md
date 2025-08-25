@@ -1,7 +1,7 @@
 <img align="left" src="https://blueprinteventsja.com/wp-content/uploads/2019/11/gif-bounce-arrow-2.gif" width="10%" style="display:inline;"><img align="right" src="https://blueprinteventsja.com/wp-content/uploads/2019/11/gif-bounce-arrow-2.gif" width="10%" style="display:inline;">
 <br>
 <p align="center">
-    <h1 align="center">---- Paulo HR Chaves ----</h1>
+    <text align="center">---- Paulo HR Chaves ----</text>
 </p>
 <br>
 <p align="center">
